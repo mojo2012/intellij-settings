@@ -1,0 +1,14 @@
+<application>
+  <component name="SaveActionSettings">
+    <option name="actions">
+      <set>
+        <option value="activate" />
+        <option value="organizeImports" />
+        <option value="reformat" />
+        <option value="localCanBeFinal" />
+        <option value="fieldCanBeFinal" />
+        <option value="unnecessarySemicolon" />
+      </set>
+    </option>
+  </component>
+</application>
