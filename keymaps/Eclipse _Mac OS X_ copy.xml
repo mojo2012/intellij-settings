@@ -55,7 +55,7 @@
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
   <action id="Resume">
-    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="f13" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="alt 3" />
