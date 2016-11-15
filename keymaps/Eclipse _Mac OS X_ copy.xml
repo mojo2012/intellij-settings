@@ -15,6 +15,12 @@
     <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="meta button1" />
   </action>
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="ExternalSystem.ToggleAutoImport">
     <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
