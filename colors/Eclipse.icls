@@ -102,5 +102,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="XML_TAG">
+      <value />
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="80" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
   </attributes>
 </scheme>
