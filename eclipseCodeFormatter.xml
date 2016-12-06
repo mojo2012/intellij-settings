@@ -7,7 +7,7 @@
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1479151588731" />
           <option name="name" value="default" />
-          <option name="pathToConfigFileJava" value="$USER_HOME$/Projekte/Getit/holmenkollen/elk_storefront/eclipse_formatter_settings.xml" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/Projekte/holmenkollen/elk_storefront/eclipse_formatter_settings.xml" />
           <option name="selectedJavaProfile" value="hybris code conventions pluto" />
         </Settings>
       </list>
