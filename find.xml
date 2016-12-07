@@ -11,6 +11,7 @@
       <mask>*backoffice*.xml</mask>
       <mask>*.properties</mask>
       <mask>*.java</mask>
+      <mask>*beans*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
