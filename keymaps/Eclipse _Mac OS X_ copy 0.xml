@@ -1,6 +1,16 @@
 <keymap version="1" name="Eclipse (Mac OS X) copy 0" parent="Eclipse (Mac OS X)">
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
