@@ -27,7 +27,6 @@
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
-  <action id="EditorEnter" />
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
