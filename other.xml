@@ -1,5 +1,14 @@
 <application>
-  <component name="RefactoringSettings">
-    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  <component name="GlobalAntConfiguration">
+    <registeredAnts>
+      <ant>
+        <classpath>
+          <classpathItem dir="file://$USER_HOME$/Projekte/Getit/christ17/hybris/hybris/bin/platform/apache-ant-1.9.1/lib" />
+        </classpath>
+        <homeDir value="$USER_HOME$/Projekte/Getit/christ17/hybris/hybris/bin/platform/apache-ant-1.9.1" />
+        <name value="Apache Ant version 1.9.1" />
+        <version value="1.9.1" />
+      </ant>
+    </registeredAnts>
   </component>
 </application>
