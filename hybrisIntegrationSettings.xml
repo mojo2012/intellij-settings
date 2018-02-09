@@ -7,6 +7,7 @@
         <option value="IMPORT_PROJECT" />
         <option value="OPEN_PROJECT" />
         <option value="BUILD_PROJECT" />
+        <option value="RUN_TESTS" />
       </set>
     </option>
   </component>
