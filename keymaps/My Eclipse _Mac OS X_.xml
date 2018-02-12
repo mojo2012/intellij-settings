@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+<keymap version="1" name="My Eclipse (Mac OS X)" parent="Eclipse (Mac OS X)">
   <action id="ActivateMessagesToolWindow" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
@@ -16,14 +16,7 @@
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
-  <action id="Console.Execute" />
-  <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="alt enter" />
-  </action>
   <action id="DSM.ZoomIn" />
-  <action id="DirDiffMenu.SynchronizeDiff" />
-  <action id="EditorChooseLookupItem" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
@@ -61,7 +54,6 @@
   <action id="Graph.ZoomIn" />
   <action id="Graph.ZoomOut" />
   <action id="Images.Editor.ZoomIn" />
-  <action id="Images.Thumbnails.EnterAction" />
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
@@ -77,10 +69,6 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="NextTemplateVariable">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
-  <action id="PropertyInspectorActions.EditValue" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt less" />
   </action>
