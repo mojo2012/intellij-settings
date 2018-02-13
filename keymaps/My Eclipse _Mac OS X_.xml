@@ -13,6 +13,7 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="CommentByBlockComment" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
@@ -57,7 +58,13 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="GotoImplementation">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="GotoSuperMethod">
     <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="Graph.ZoomIn" />
