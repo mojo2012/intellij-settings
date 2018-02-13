@@ -13,9 +13,13 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
+  <action id="CopyPaths" />
   <action id="DSM.ZoomIn" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
