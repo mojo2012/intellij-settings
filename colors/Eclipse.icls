@@ -1,9 +1,8 @@
 <scheme name="Eclipse" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e3eefc" />
     <option name="INFORMATION_HINT" value="ffe16a" />
