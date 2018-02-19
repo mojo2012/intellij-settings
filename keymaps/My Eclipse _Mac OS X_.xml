@@ -86,6 +86,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt less" />
   </action>
+  <action id="ShowRegistry">
+    <keyboard-shortcut first-keystroke="ctrl meta alt u_with_diaeresis" />
+  </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
