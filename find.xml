@@ -3,7 +3,7 @@
     <option name="customScope" value="[y] Custom" />
     <option name="defaultScopeName" value="[y] Custom" />
     <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="FILE_MASK" value="*items.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,6 +16,7 @@
       <mask>*back*config.xml</mask>
       <mask>*.xml</mask>
       <mask>*.impex</mask>
+      <mask>*items.xml</mask>
     </recentFileMasks>
   </component>
 </application>
