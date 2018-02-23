@@ -58,15 +58,7 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="meta button1" />
-  </action>
-  <action id="GotoImplementation">
-    <mouse-shortcut keystroke="alt button1" />
-  </action>
-  <action id="GotoSuperMethod">
-    <mouse-shortcut keystroke="meta button1" />
-  </action>
+  <action id="GotoDeclaration" />
   <action id="Graph.ZoomIn" />
   <action id="Graph.ZoomOut" />
   <action id="Images.Editor.ZoomIn" />
@@ -85,11 +77,17 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="QuickList.Navigate">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt less" />
+  </action>
+  <action id="ShowRegistry">
+    <keyboard-shortcut first-keystroke="ctrl meta alt u_with_diaeresis" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="alt y" />

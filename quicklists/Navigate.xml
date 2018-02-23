@@ -1,0 +1,7 @@
+<list display="Navigate">
+  <action id="GotoDeclaration" />
+  <action id="GotoImplementation" />
+  <action id="GotoSuperMethod" />
+  <action id="CallHierarchy" />
+  <action id="GotoTypeDeclaration" />
+</list>

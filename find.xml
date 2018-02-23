@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*spring.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,8 +17,10 @@
       <mask>*.mxml</mask>
       <mask>*back*config.xml</mask>
       <mask>*.xml</mask>
-      <mask>*items.xml</mask>
+      <mask>*.java,</mask>
+      <mask>*</mask>
       <mask>*.impex</mask>
+      <mask>*spring.xml</mask>
     </recentFileMasks>
   </component>
 </application>
