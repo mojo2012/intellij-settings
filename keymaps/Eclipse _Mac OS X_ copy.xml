@@ -1,0 +1,48 @@
+<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift meta b" />
+  </action>
+  <action id="Console.Execute" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="EditorTextEnd">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="EditorTextStart">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="alt less" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="ToggleLineBreakpoint" />
+</keymap>
