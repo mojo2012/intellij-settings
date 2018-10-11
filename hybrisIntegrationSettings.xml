@@ -2,11 +2,11 @@
   <component name="HybrisApplicationSettings">
     <option name="allowedSendingPlainStatistics" value="true" />
     <option name="foldingEnabled" value="false" />
-    <option name="hybrisInstancePassword" value="rnX40em4h5tURHG4" />
     <option name="useSmartFolding" value="false" />
     <option name="usedActions">
       <set>
         <option value="IMPORT_PROJECT" />
+        <option value="REFRESH_PROJECT" />
         <option value="OPEN_PROJECT" />
         <option value="ANT" />
         <option value="BUILD_PROJECT" />
