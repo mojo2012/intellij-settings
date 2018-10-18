@@ -53,6 +53,7 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="FindNext" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -86,6 +87,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt less" />
   </action>
+  <action id="SelectNextOccurrence" />
   <action id="ShowRegistry">
     <keyboard-shortcut first-keystroke="ctrl meta alt u_with_diaeresis" />
   </action>
