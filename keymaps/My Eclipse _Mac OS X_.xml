@@ -101,5 +101,8 @@
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="ToggleLineBreakpoint" />
+  <action id="Vcs.Log.EnableFilterByRegexAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt x" />
+  </action>
   <action id="ZoomCurrentWindow" />
 </keymap>
