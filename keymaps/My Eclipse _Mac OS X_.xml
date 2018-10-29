@@ -53,7 +53,9 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
-  <action id="FindNext" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
