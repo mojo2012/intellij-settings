@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="[y] Custom" />
-    <option name="defaultScopeName" value="[y] Custom" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="[y] Custom" />
-    <option name="FILE_MASK" value="*.impex" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*config.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -18,5 +18,6 @@
     <mask>change.xml</mask>
     <mask>*.xml</mask>
     <mask>*.impex</mask>
+    <mask>*config.xml</mask>
   </component>
 </application>
