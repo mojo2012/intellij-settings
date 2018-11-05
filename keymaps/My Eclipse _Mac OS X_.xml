@@ -53,6 +53,9 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta f" />
   </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -86,6 +89,7 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt less" />
   </action>
+  <action id="SelectNextOccurrence" />
   <action id="ShowRegistry">
     <keyboard-shortcut first-keystroke="ctrl meta alt u_with_diaeresis" />
   </action>
@@ -99,5 +103,8 @@
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="ToggleLineBreakpoint" />
+  <action id="Vcs.Log.EnableFilterByRegexAction">
+    <keyboard-shortcut first-keystroke="ctrl meta alt x" />
+  </action>
   <action id="ZoomCurrentWindow" />
 </keymap>
