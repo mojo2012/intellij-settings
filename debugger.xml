@@ -2,6 +2,7 @@
   <component name="DebuggerSettings">
     <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
+    <option name="EVALUATE_FINALLY_ON_POP_FRAME" value="EvaluateFinallyNever" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -103,17 +104,5 @@
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
     </general>
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
 </application>
