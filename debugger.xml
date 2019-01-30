@@ -104,6 +104,40 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="SolrFacetSearchConfigModel" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.model.config.SolrFacetSearchConfigModel" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.model.config.SolrFacetSearchConfigModel" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getName()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="MediaModel code" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="de.hybris.platform.core.model.media.MediaModel" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="de.hybris.platform.core.model.media.MediaModel" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getCode()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="SolrIndexedTypeModel" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.model.config.SolrIndexedTypeModel" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="de.hybris.platform.solrfacetsearch.model.config.SolrIndexedTypeModel" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getIdentifier()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general>
@@ -113,11 +147,6 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
