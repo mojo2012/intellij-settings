@@ -55,6 +55,9 @@
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
       </value>
     </option>
+    <option name="HTML_TAG">
+      <value />
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="c0" />
@@ -135,6 +138,9 @@
         <option name="FOREGROUND" value="3f7f5f" />
         <option name="FONT_TYPE" value="3" />
       </value>
+    </option>
+    <option name="TWIG_BACKGROUND">
+      <value />
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="WARNING_ATTRIBUTES">
