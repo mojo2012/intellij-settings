@@ -2,8 +2,10 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Monaco" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Fira Code" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e3eefc" />
     <option name="INFORMATION_HINT" value="ffe16a" />
@@ -33,6 +35,11 @@
       <value>
         <option name="FOREGROUND" value="797979" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
@@ -106,6 +113,12 @@
     <option name="JAVA_STRING">
       <value>
         <option name="FOREGROUND" value="8000" />
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="3f7f5f" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PHP_SCRIPTING_BACKGROUND">
