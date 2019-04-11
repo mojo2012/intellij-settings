@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -16,7 +16,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.properties</mask>
-    <mask>*</mask>
     <mask>change.xml</mask>
     <mask>*.impex</mask>
     <mask>*config.xml</mask>
@@ -24,5 +23,6 @@
     <mask>CartDependencyProvider.php</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*</mask>
   </component>
 </application>
