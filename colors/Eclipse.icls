@@ -71,7 +71,7 @@
     </option>
     <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c0" />
+        <option name="FOREGROUND" value="957d47" />
       </value>
     </option>
     <option name="JAVA_BLOCK_COMMENT">
@@ -196,7 +196,7 @@
     <option name="TWIG_BACKGROUND">
       <value />
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="1" />
