@@ -1,11 +1,8 @@
 <scheme name="Eclipse" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e3eefc" />
     <option name="INFORMATION_HINT" value="ffe16a" />
@@ -71,7 +68,7 @@
     </option>
     <option name="INSTANCE_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="957d47" />
+        <option name="FOREGROUND" value="c0" />
       </value>
     </option>
     <option name="JAVA_BLOCK_COMMENT">
@@ -196,7 +193,7 @@
     <option name="TWIG_BACKGROUND">
       <value />
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="WARNING_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="1" />
