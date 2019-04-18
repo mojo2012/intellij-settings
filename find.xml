@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*csv" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -22,10 +22,10 @@
     <mask>*.csv</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
-    <mask>*</mask>
     <mask>*schema.xml</mask>
     <mask>*php</mask>
-    <mask>*csv</mask>
     <mask>*.php</mask>
+    <mask>*</mask>
+    <mask>*csv</mask>
   </component>
 </application>
