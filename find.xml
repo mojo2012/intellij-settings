@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*schema.xml" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -16,7 +16,6 @@
     <mask>*config.xml</mask>
     <mask>pom.xml</mask>
     <mask>CartDependencyProvider.php</mask>
-    <mask>*.xml</mask>
     <mask>*.csv</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
@@ -25,5 +24,6 @@
     <mask>*csv</mask>
     <mask>*php</mask>
     <mask>*schema.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
