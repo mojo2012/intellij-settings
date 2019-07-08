@@ -2,27 +2,29 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.php, *.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.properties</mask>
-    <mask>*</mask>
     <mask>change.xml</mask>
     <mask>*.impex</mask>
     <mask>*config.xml</mask>
     <mask>pom.xml</mask>
     <mask>CartDependencyProvider.php</mask>
-    <mask>*.php</mask>
+    <mask>*.csv</mask>
+    <mask>*php</mask>
+    <mask>*.twig</mask>
+    <mask>*.css</mask>
+    <mask>*</mask>
+    <mask>*.json</mask>
+    <mask>*.xsd</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
+    <mask>*.php, *.xml</mask>
   </component>
 </application>
