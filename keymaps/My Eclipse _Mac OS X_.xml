@@ -14,7 +14,9 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CommentByBlockComment" />
-  <action id="CommentByLineComment" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
