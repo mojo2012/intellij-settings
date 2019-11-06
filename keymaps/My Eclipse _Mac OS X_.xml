@@ -14,14 +14,15 @@
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
   <action id="CommentByBlockComment" />
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="shift meta c" />
-  </action>
+  <action id="CommentByLineComment" />
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
   <action id="CopyPaths" />
   <action id="DSM.ZoomIn" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
