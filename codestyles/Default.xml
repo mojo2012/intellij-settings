@@ -1,4 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <option name="WRAP_ON_TYPING" value="0" />
+  <codeStyleSettings language="JAVA">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
