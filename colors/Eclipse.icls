@@ -1,4 +1,14 @@
 <scheme name="Eclipse" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monaco for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="10" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="e3eefc" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
@@ -26,6 +36,11 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value />
+    </option>
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="bbbb" />
+      </value>
     </option>
     <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
       <value>
