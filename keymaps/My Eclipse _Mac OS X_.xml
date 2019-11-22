@@ -22,15 +22,15 @@
   </action>
   <action id="CopyPaths" />
   <action id="DSM.ZoomIn" />
-  <action id="DecrementWindowHeight" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
-  <action id="EditorMoveToPageBottomWithSelection" />
-  <action id="EditorMoveToPageTopWithSelection" />
   <action id="EditorNextWord" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -53,14 +53,8 @@
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
-  <action id="EditorTextEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta down" />
-  </action>
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta up" />
-  </action>
-  <action id="EditorTextStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="meta equals" />
@@ -86,11 +80,14 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
     <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="GotoDeclaration" />
   <action id="Graph.ZoomIn" />
   <action id="Graph.ZoomOut" />
   <action id="Images.Editor.ZoomIn" />
-  <action id="IncrementWindowHeight" />
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
@@ -115,9 +112,6 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
-  <action id="ResetColumnsWidth" />
-  <action id="ResizeToolWindowDown" />
-  <action id="ResizeToolWindowUp" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="alt less" />
   </action>
